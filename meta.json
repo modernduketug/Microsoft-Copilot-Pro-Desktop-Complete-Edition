@@ -1,0 +1,23 @@
+{
+  "repo": "microsoft-copilot-professional-desktop-complete-edition",
+  "product": "Microsoft Copilot Pro Desktop Complete Edition",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "microsoft-copilot-pro",
+    "microsoft-copilot",
+    "how-to-install-microsoft-copilot",
+    "how-to-setup-microsoft-copilot",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "microsoft-pro",
+    "microsoft-copilot-professional-desktop-complete-edition"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Microsoft Copilot Pro Desktop Complete Edition"
+}
